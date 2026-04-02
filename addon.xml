@@ -1,0 +1,10 @@
+<addon id="plugin.video.atresplayer" version="1.0.0" name="Atresplayer">
+  <extension point="xbmc.python.plugin" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Atresplayer Kodi Addon</summary>
+    <description>Access Atresplayer content.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
